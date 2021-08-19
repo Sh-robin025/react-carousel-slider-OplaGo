@@ -1,3 +1,4 @@
+// components
 import Carousel from "./components/carousel/Carousel";
 
 function App() {

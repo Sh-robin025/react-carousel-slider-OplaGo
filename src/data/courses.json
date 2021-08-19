@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "UPSC IAS GS 2022 Foundation Live Couching",
+    "image": "http://",
+    "status": "Batch closes in 1 day",
+    "classes": 380,
+    "questions": 1500,
+    "notes": 200
+  },
+  {
+    "id": 2,
+    "title": "Civil Assistant Engineer Live Couching Batch 2",
+    "image": "http://",
+    "status": "Batch closes in 1 day",
+    "classes": 230,
+    "questions": 5000,
+    "notes": 85
+  },
+  {
+    "id": 3,
+    "title": "BPSC Foundation Live Couching (Pre + Main)",
+    "image": "http://",
+    "status": "Batch closes in 1 day",
+    "classes": 400,
+    "questions": 2000,
+    "notes": 300
+  },
+  {
+    "id": 4,
+    "title": "IBPS PO & SBI PO Live Couching in English Batch 2",
+    "image": "http://",
+    "status": "Batch closes in 1 day",
+    "classes": 240,
+    "questions": 9000,
+    "notes": 120
+  },
+  {
+    "id": 5,
+    "title": "Civil Assistant Engineer Live Couching Batch 2",
+    "image": "http://",
+    "status": "Batch closes in 1 day",
+    "classes": 200,
+    "questions": 5000,
+    "notes": 80
+  },
+  {
+    "id": 6,
+    "title": "UPSC IAS GS 2022 Foundation Live Couching",
+    "image": "http://",
+    "status": "Batch closes in 1 day",
+    "classes": 220,
+    "questions": 6000,
+    "notes": 100
+  },
+  {
+    "id": 7,
+    "title": "UPSC IAS GS 2022 Foundation Live Couching",
+    "image": "http://",
+    "status": "Batch closes in 1 day",
+    "classes": 220,
+    "questions": 6000,
+    "notes": 100
+  },
+  {
+    "id": 8,
+    "title": "UPSC IAS GS 2022 Foundation Live Couching",
+    "image": "http://",
+    "status": "Batch closes in 1 day",
+    "classes": 220,
+    "questions": 6000,
+    "notes": 100
+  }
+]

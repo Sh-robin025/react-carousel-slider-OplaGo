@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
-  height: 100vh;
+  /* height: 100vh; */
 `;
 
 export const CarouselHead = styled.div`
@@ -62,14 +62,14 @@ export const Card = styled.div`
   }
   .status_blue {
     background: linear-gradient(to right, #5a7ef5, #1e2dbb);
-    font-size: 22px;
+    font-size: 21px;
     font-weight: 700;
     padding: 10px 20px;
     color: #ffffff;
   }
   .status_green {
     background: linear-gradient(to right, #96b577, #469a89);
-    font-size: 22px;
+    font-size: 21px;
     font-weight: 700;
     padding: 10px 20px;
     color: #ffffff;

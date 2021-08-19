@@ -18,7 +18,7 @@ const Item = ({ course }) => {
       </div>
       <h4 className="p-3">{course.title}</h4>
       <hr className="line" />
-      <div className="p-3">
+      <div className="p-3" style={{ color: "#9badb7" }}>
         <h6>
           <AiOutlineYoutube className="text-danger" /> {course.classes}+ Live
           Classes

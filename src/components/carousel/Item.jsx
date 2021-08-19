@@ -13,7 +13,7 @@ const Item = ({ course }) => {
   return (
     <Card>
       <img src={Image} alt={course.title} className="img-fluid" />
-      <div className="status">
+      <div className={course.id % 2 === 0 ? "status_green" : "status_blue"}>
         <BiTime /> {course.status}
       </div>
       <h4 className="p-3">{course.title}</h4>
